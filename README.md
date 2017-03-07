@@ -1,4 +1,4 @@
-# easyPintu
+# EasyPintu
 
 ## 项目介绍
 
