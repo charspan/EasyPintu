@@ -1,4 +1,6 @@
-package com.charspan.pintu;
+package com.charspan.movepintu;
+
+import com.charspan.movepintu.R;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
